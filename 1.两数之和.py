@@ -57,9 +57,3 @@ class Solution:
             num_dict[num] = i'''
 
 # @lc code=end
-
-nums = [2,7,11,15]
-target = 9
-
-ans = Solution()
-ans.twoSum(nums, target)
